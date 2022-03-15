@@ -1,4 +1,4 @@
-let textarea = document.getElementById("keylogger");
+var textarea = document.getElementById("keylogger");
 
 document.addEventListener("keypress", addCharacter);
 
