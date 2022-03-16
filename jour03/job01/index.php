@@ -8,12 +8,12 @@
     <title>Document</title>
 </head>
 <body>
-    <!-- <header></header>
-    <main> -->
+    <header></header>
+    <main>
         <button id="show">show</button>
         <button id="hide">hide</button>
-    <!-- </main>
-    <footer></footer> -->
+    </main>
+    <footer></footer>
     
     <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
     <script src='script.js'></script>

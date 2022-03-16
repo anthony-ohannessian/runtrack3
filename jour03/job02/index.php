@@ -10,7 +10,16 @@
 <body>
     <header></header>
     <main>
-        
+        <div id="shuffled">
+            <!-- <img class="img" id="01" src="">
+            <img class="img" id="02" src="">
+            <img class="img" id="03" src="">
+            <img class="img" id="04" src="">
+            <img class="img" id="05" src="">
+            <img class="img" id="06" src=""> -->
+        </div>
+        <button id="shuffle">shuffe it</button>
+        <div id="ordered"></div>
     </main>
     <footer></footer>
     
