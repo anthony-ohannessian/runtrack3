@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+}
+
+form label {
+    margin-top: 5%;
+}
+
+.error {
+    color: red;
+}
